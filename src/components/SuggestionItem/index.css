@@ -1,1 +1,20 @@
 /* Write your CSS here */
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0px;
+}
+
+p {
+  margin-left: 7px;
+  font-size: 14px;
+  color: #475569;
+}
+
+.img1 {
+  height: 20px;
+  margin-right: 17px;
+  color: #bfbfbf;
+}
